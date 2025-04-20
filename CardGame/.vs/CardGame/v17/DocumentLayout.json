@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SEMESTER 2\\OOP\\Programming Day\\Week 8\\CardGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DDD47D-565D-4614-8FE6-B20AC250D9D5}|CardGame\\CardGame.csproj|d:\\semester 2\\oop\\programming day\\week 8\\cardgame\\cardgame\\bl\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DDD47D-565D-4614-8FE6-B20AC250D9D5}|CardGame\\CardGame.csproj|solutionrelative:cardgame\\bl\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DDD47D-565D-4614-8FE6-B20AC250D9D5}|CardGame\\CardGame.csproj|d:\\semester 2\\oop\\programming day\\week 8\\cardgame\\cardgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DDD47D-565D-4614-8FE6-B20AC250D9D5}|CardGame\\CardGame.csproj|solutionrelative:cardgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DDD47D-565D-4614-8FE6-B20AC250D9D5}|CardGame\\CardGame.csproj|d:\\semester 2\\oop\\programming day\\week 8\\cardgame\\cardgame\\ui\\hand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DDD47D-565D-4614-8FE6-B20AC250D9D5}|CardGame\\CardGame.csproj|solutionrelative:cardgame\\ui\\hand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DDD47D-565D-4614-8FE6-B20AC250D9D5}|CardGame\\CardGame.csproj|d:\\semester 2\\oop\\programming day\\week 8\\cardgame\\cardgame\\ui\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DDD47D-565D-4614-8FE6-B20AC250D9D5}|CardGame\\CardGame.csproj|solutionrelative:cardgame\\ui\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DDD47D-565D-4614-8FE6-B20AC250D9D5}|CardGame\\CardGame.csproj|d:\\semester 2\\oop\\programming day\\week 8\\cardgame\\cardgame\\ui\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DDD47D-565D-4614-8FE6-B20AC250D9D5}|CardGame\\CardGame.csproj|solutionrelative:cardgame\\ui\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DDD47D-565D-4614-8FE6-B20AC250D9D5}|CardGame\\CardGame.csproj|d:\\semester 2\\oop\\programming day\\week 8\\cardgame\\cardgame\\dl\\hand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DDD47D-565D-4614-8FE6-B20AC250D9D5}|CardGame\\CardGame.csproj|solutionrelative:cardgame\\dl\\hand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DDD47D-565D-4614-8FE6-B20AC250D9D5}|CardGame\\CardGame.csproj|d:\\semester 2\\oop\\programming day\\week 8\\cardgame\\cardgame\\dl\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DDD47D-565D-4614-8FE6-B20AC250D9D5}|CardGame\\CardGame.csproj|solutionrelative:cardgame\\dl\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DDD47D-565D-4614-8FE6-B20AC250D9D5}|CardGame\\CardGame.csproj|d:\\semester 2\\oop\\programming day\\week 8\\cardgame\\cardgame\\dl\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DDD47D-565D-4614-8FE6-B20AC250D9D5}|CardGame\\CardGame.csproj|solutionrelative:cardgame\\dl\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DDD47D-565D-4614-8FE6-B20AC250D9D5}|CardGame\\CardGame.csproj|d:\\semester 2\\oop\\programming day\\week 8\\cardgame\\cardgame\\bl\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DDD47D-565D-4614-8FE6-B20AC250D9D5}|CardGame\\CardGame.csproj|solutionrelative:cardgame\\bl\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Deck.cs",
+              "DocumentMoniker": "D:\\SEMESTER 2\\OOP\\Programming Day\\Week 8\\CardGame\\CardGame\\UI\\Deck.cs",
+              "RelativeDocumentMoniker": "CardGame\\UI\\Deck.cs",
+              "ToolTip": "D:\\SEMESTER 2\\OOP\\Programming Day\\Week 8\\CardGame\\CardGame\\UI\\Deck.cs",
+              "RelativeToolTip": "CardGame\\UI\\Deck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T03:35:30.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hand.cs",
+              "DocumentMoniker": "D:\\SEMESTER 2\\OOP\\Programming Day\\Week 8\\CardGame\\CardGame\\UI\\Hand.cs",
+              "RelativeDocumentMoniker": "CardGame\\UI\\Hand.cs",
+              "ToolTip": "D:\\SEMESTER 2\\OOP\\Programming Day\\Week 8\\CardGame\\CardGame\\UI\\Hand.cs",
+              "RelativeToolTip": "CardGame\\UI\\Hand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T03:35:19.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Card.cs",
+              "DocumentMoniker": "D:\\SEMESTER 2\\OOP\\Programming Day\\Week 8\\CardGame\\CardGame\\UI\\Card.cs",
+              "RelativeDocumentMoniker": "CardGame\\UI\\Card.cs",
+              "ToolTip": "D:\\SEMESTER 2\\OOP\\Programming Day\\Week 8\\CardGame\\CardGame\\UI\\Card.cs",
+              "RelativeToolTip": "CardGame\\UI\\Card.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T03:35:08.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Deck.cs",
+              "DocumentMoniker": "D:\\SEMESTER 2\\OOP\\Programming Day\\Week 8\\CardGame\\CardGame\\DL\\Deck.cs",
+              "RelativeDocumentMoniker": "CardGame\\DL\\Deck.cs",
+              "ToolTip": "D:\\SEMESTER 2\\OOP\\Programming Day\\Week 8\\CardGame\\CardGame\\DL\\Deck.cs",
+              "RelativeToolTip": "CardGame\\DL\\Deck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T03:34:58.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Hand.cs",
+              "DocumentMoniker": "D:\\SEMESTER 2\\OOP\\Programming Day\\Week 8\\CardGame\\CardGame\\DL\\Hand.cs",
+              "RelativeDocumentMoniker": "CardGame\\DL\\Hand.cs",
+              "ToolTip": "D:\\SEMESTER 2\\OOP\\Programming Day\\Week 8\\CardGame\\CardGame\\DL\\Hand.cs",
+              "RelativeToolTip": "CardGame\\DL\\Hand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T03:34:48.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Card.cs",
+              "DocumentMoniker": "D:\\SEMESTER 2\\OOP\\Programming Day\\Week 8\\CardGame\\CardGame\\DL\\Card.cs",
+              "RelativeDocumentMoniker": "CardGame\\DL\\Card.cs",
+              "ToolTip": "D:\\SEMESTER 2\\OOP\\Programming Day\\Week 8\\CardGame\\CardGame\\DL\\Card.cs",
+              "RelativeToolTip": "CardGame\\DL\\Card.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T03:34:37.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Deck.cs",
+              "DocumentMoniker": "D:\\SEMESTER 2\\OOP\\Programming Day\\Week 8\\CardGame\\CardGame\\BL\\Deck.cs",
+              "RelativeDocumentMoniker": "CardGame\\BL\\Deck.cs",
+              "ToolTip": "D:\\SEMESTER 2\\OOP\\Programming Day\\Week 8\\CardGame\\CardGame\\BL\\Deck.cs",
+              "RelativeToolTip": "CardGame\\BL\\Deck.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAC8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T03:34:28.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Card.cs",
+              "DocumentMoniker": "D:\\SEMESTER 2\\OOP\\Programming Day\\Week 8\\CardGame\\CardGame\\BL\\Card.cs",
+              "RelativeDocumentMoniker": "CardGame\\BL\\Card.cs",
+              "ToolTip": "D:\\SEMESTER 2\\OOP\\Programming Day\\Week 8\\CardGame\\CardGame\\BL\\Card.cs",
+              "RelativeToolTip": "CardGame\\BL\\Card.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAEwAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T03:33:55.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SEMESTER 2\\OOP\\Programming Day\\Week 8\\CardGame\\CardGame\\Program.cs",
+              "RelativeDocumentMoniker": "CardGame\\Program.cs",
+              "ToolTip": "D:\\SEMESTER 2\\OOP\\Programming Day\\Week 8\\CardGame\\CardGame\\Program.cs",
+              "RelativeToolTip": "CardGame\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwDAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T03:32:05.459Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

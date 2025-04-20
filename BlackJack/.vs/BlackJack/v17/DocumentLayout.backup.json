@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SEMESTER 2\\OOP\\Programming Day\\Week 8\\BlackJack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6416D0A7-1B97-40F7-BBE8-A6B16FC98C05}|BlackJack\\BlackJack.csproj|d:\\semester 2\\oop\\programming day\\week 8\\blackjack\\blackjack\\bl\\hand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6416D0A7-1B97-40F7-BBE8-A6B16FC98C05}|BlackJack\\BlackJack.csproj|solutionrelative:blackjack\\bl\\hand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6416D0A7-1B97-40F7-BBE8-A6B16FC98C05}|BlackJack\\BlackJack.csproj|d:\\semester 2\\oop\\programming day\\week 8\\blackjack\\blackjack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6416D0A7-1B97-40F7-BBE8-A6B16FC98C05}|BlackJack\\BlackJack.csproj|solutionrelative:blackjack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6416D0A7-1B97-40F7-BBE8-A6B16FC98C05}|BlackJack\\BlackJack.csproj|d:\\semester 2\\oop\\programming day\\week 8\\blackjack\\blackjack\\bl\\blackjackhand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6416D0A7-1B97-40F7-BBE8-A6B16FC98C05}|BlackJack\\BlackJack.csproj|solutionrelative:blackjack\\bl\\blackjackhand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6416D0A7-1B97-40F7-BBE8-A6B16FC98C05}|BlackJack\\BlackJack.csproj|d:\\semester 2\\oop\\programming day\\week 8\\blackjack\\blackjack\\bl\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6416D0A7-1B97-40F7-BBE8-A6B16FC98C05}|BlackJack\\BlackJack.csproj|solutionrelative:blackjack\\bl\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6416D0A7-1B97-40F7-BBE8-A6B16FC98C05}|BlackJack\\BlackJack.csproj|d:\\semester 2\\oop\\programming day\\week 8\\blackjack\\blackjack\\dl\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6416D0A7-1B97-40F7-BBE8-A6B16FC98C05}|BlackJack\\BlackJack.csproj|solutionrelative:blackjack\\dl\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6416D0A7-1B97-40F7-BBE8-A6B16FC98C05}|BlackJack\\BlackJack.csproj|d:\\semester 2\\oop\\programming day\\week 8\\blackjack\\blackjack\\bl\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6416D0A7-1B97-40F7-BBE8-A6B16FC98C05}|BlackJack\\BlackJack.csproj|solutionrelative:blackjack\\bl\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6416D0A7-1B97-40F7-BBE8-A6B16FC98C05}|BlackJack\\BlackJack.csproj|d:\\semester 2\\oop\\programming day\\week 8\\blackjack\\blackjack\\ui\\hand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6416D0A7-1B97-40F7-BBE8-A6B16FC98C05}|BlackJack\\BlackJack.csproj|solutionrelative:blackjack\\ui\\hand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6416D0A7-1B97-40F7-BBE8-A6B16FC98C05}|BlackJack\\BlackJack.csproj|d:\\semester 2\\oop\\programming day\\week 8\\blackjack\\blackjack\\ui\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6416D0A7-1B97-40F7-BBE8-A6B16FC98C05}|BlackJack\\BlackJack.csproj|solutionrelative:blackjack\\ui\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6416D0A7-1B97-40F7-BBE8-A6B16FC98C05}|BlackJack\\BlackJack.csproj|d:\\semester 2\\oop\\programming day\\week 8\\blackjack\\blackjack\\ui\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6416D0A7-1B97-40F7-BBE8-A6B16FC98C05}|BlackJack\\BlackJack.csproj|solutionrelative:blackjack\\ui\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6416D0A7-1B97-40F7-BBE8-A6B16FC98C05}|BlackJack\\BlackJack.csproj|d:\\semester 2\\oop\\programming day\\week 8\\blackjack\\blackjack\\dl\\hand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6416D0A7-1B97-40F7-BBE8-A6B16FC98C05}|BlackJack\\BlackJack.csproj|solutionrelative:blackjack\\dl\\hand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6416D0A7-1B97-40F7-BBE8-A6B16FC98C05}|BlackJack\\BlackJack.csproj|d:\\semester 2\\oop\\programming day\\week 8\\blackjack\\blackjack\\dl\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6416D0A7-1B97-40F7-BBE8-A6B16FC98C05}|BlackJack\\BlackJack.csproj|solutionrelative:blackjack\\dl\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlackjackHand.cs",
+              "DocumentMoniker": "D:\\SEMESTER 2\\OOP\\Programming Day\\Week 8\\BlackJack\\BlackJack\\BL\\BlackjackHand.cs",
+              "RelativeDocumentMoniker": "BlackJack\\BL\\BlackjackHand.cs",
+              "ToolTip": "D:\\SEMESTER 2\\OOP\\Programming Day\\Week 8\\BlackJack\\BlackJack\\BL\\BlackjackHand.cs",
+              "RelativeToolTip": "BlackJack\\BL\\BlackjackHand.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAawDAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:00:28.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Hand.cs",
+              "DocumentMoniker": "D:\\SEMESTER 2\\OOP\\Programming Day\\Week 8\\BlackJack\\BlackJack\\UI\\Hand.cs",
+              "RelativeDocumentMoniker": "BlackJack\\UI\\Hand.cs",
+              "ToolTip": "D:\\SEMESTER 2\\OOP\\Programming Day\\Week 8\\BlackJack\\BlackJack\\UI\\Hand.cs",
+              "RelativeToolTip": "BlackJack\\UI\\Hand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T16:31:38.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Deck.cs",
+              "DocumentMoniker": "D:\\SEMESTER 2\\OOP\\Programming Day\\Week 8\\BlackJack\\BlackJack\\UI\\Deck.cs",
+              "RelativeDocumentMoniker": "BlackJack\\UI\\Deck.cs",
+              "ToolTip": "D:\\SEMESTER 2\\OOP\\Programming Day\\Week 8\\BlackJack\\BlackJack\\UI\\Deck.cs",
+              "RelativeToolTip": "BlackJack\\UI\\Deck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T16:31:28.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Card.cs",
+              "DocumentMoniker": "D:\\SEMESTER 2\\OOP\\Programming Day\\Week 8\\BlackJack\\BlackJack\\UI\\Card.cs",
+              "RelativeDocumentMoniker": "BlackJack\\UI\\Card.cs",
+              "ToolTip": "D:\\SEMESTER 2\\OOP\\Programming Day\\Week 8\\BlackJack\\BlackJack\\UI\\Card.cs",
+              "RelativeToolTip": "BlackJack\\UI\\Card.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T16:31:15.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Hand.cs",
+              "DocumentMoniker": "D:\\SEMESTER 2\\OOP\\Programming Day\\Week 8\\BlackJack\\BlackJack\\DL\\Hand.cs",
+              "RelativeDocumentMoniker": "BlackJack\\DL\\Hand.cs",
+              "ToolTip": "D:\\SEMESTER 2\\OOP\\Programming Day\\Week 8\\BlackJack\\BlackJack\\DL\\Hand.cs",
+              "RelativeToolTip": "BlackJack\\DL\\Hand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T16:31:05.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Deck.cs",
+              "DocumentMoniker": "D:\\SEMESTER 2\\OOP\\Programming Day\\Week 8\\BlackJack\\BlackJack\\DL\\Deck.cs",
+              "RelativeDocumentMoniker": "BlackJack\\DL\\Deck.cs",
+              "ToolTip": "D:\\SEMESTER 2\\OOP\\Programming Day\\Week 8\\BlackJack\\BlackJack\\DL\\Deck.cs",
+              "RelativeToolTip": "BlackJack\\DL\\Deck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T16:30:55.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Card.cs",
+              "DocumentMoniker": "D:\\SEMESTER 2\\OOP\\Programming Day\\Week 8\\BlackJack\\BlackJack\\DL\\Card.cs",
+              "RelativeDocumentMoniker": "BlackJack\\DL\\Card.cs",
+              "ToolTip": "D:\\SEMESTER 2\\OOP\\Programming Day\\Week 8\\BlackJack\\BlackJack\\DL\\Card.cs",
+              "RelativeToolTip": "BlackJack\\DL\\Card.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T16:30:44.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hand.cs",
+              "DocumentMoniker": "D:\\SEMESTER 2\\OOP\\Programming Day\\Week 8\\BlackJack\\BlackJack\\BL\\Hand.cs",
+              "RelativeDocumentMoniker": "BlackJack\\BL\\Hand.cs",
+              "ToolTip": "D:\\SEMESTER 2\\OOP\\Programming Day\\Week 8\\BlackJack\\BlackJack\\BL\\Hand.cs",
+              "RelativeToolTip": "BlackJack\\BL\\Hand.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAArwC8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T16:30:33.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Deck.cs",
+              "DocumentMoniker": "D:\\SEMESTER 2\\OOP\\Programming Day\\Week 8\\BlackJack\\BlackJack\\BL\\Deck.cs",
+              "RelativeDocumentMoniker": "BlackJack\\BL\\Deck.cs",
+              "ToolTip": "D:\\SEMESTER 2\\OOP\\Programming Day\\Week 8\\BlackJack\\BlackJack\\BL\\Deck.cs",
+              "RelativeToolTip": "BlackJack\\BL\\Deck.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAADEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T16:30:23.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Card.cs",
+              "DocumentMoniker": "D:\\SEMESTER 2\\OOP\\Programming Day\\Week 8\\BlackJack\\BlackJack\\BL\\Card.cs",
+              "RelativeDocumentMoniker": "BlackJack\\BL\\Card.cs",
+              "ToolTip": "D:\\SEMESTER 2\\OOP\\Programming Day\\Week 8\\BlackJack\\BlackJack\\BL\\Card.cs",
+              "RelativeToolTip": "BlackJack\\BL\\Card.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAQwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T16:30:14.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SEMESTER 2\\OOP\\Programming Day\\Week 8\\BlackJack\\BlackJack\\Program.cs",
+              "RelativeDocumentMoniker": "BlackJack\\Program.cs",
+              "ToolTip": "D:\\SEMESTER 2\\OOP\\Programming Day\\Week 8\\BlackJack\\BlackJack\\Program.cs",
+              "RelativeToolTip": "BlackJack\\Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAQwEsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T16:27:20.351Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
